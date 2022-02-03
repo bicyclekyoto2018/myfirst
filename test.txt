@@ -1,3 +1,10 @@
 test.txt
 360度画像の読み込み
 a-frame
+
+360度画像撮影
+bibbli
+
+360度画像編集
+
+theta+
